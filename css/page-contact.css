@@ -1,0 +1,11 @@
+#header-text-3 .bg {
+    background-image: url('../images/bg-60.jpg');
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: cover;
+    opacity:1;
+}
+#contact-img-map-text .bg-wrap {
+    background-color: #F2F0ED;
+}
+
